@@ -1,7 +1,24 @@
 {
-  "synced_at": "2026-10-05T05:31:27-05:00",
+  "synced_at": "2026-10-05T11:32:27-05:00",
   "sync_status": "ok",
   "listings": [
+    {
+      "id": "1408169321509362",
+      "slug": "16x42-derksen-side-cabin-rent-to-own-available-1408169321509362",
+      "title": "16x42 Derksen Side Cabin | Rent-To-Own Available",
+      "price_cents": 1810200,
+      "price_display": "$18,102 + tax",
+      "description": "The big one. This 16x42 Derksen Side Cabin gives you serious room for a tiny home project, guest house, office, or weekend place.\n\nFlexible Payment Options:\n• Cash: $18,102 + tax\n• Rent-to-Own (No Credit Check!):\nRTO: $838.07 / $754.26 / $670.45 + tax\n\nStart today with just your first month's payment!\n\nKey Features:\n• Side-entry layout with center porch\n• 9-lite door\n• (3) 2x3 windows\n• Backed by a 5-year limited warranty\n\nPhotos show a dormer example. Listed price is the standard cabin configuration; dormers and extra options are priced separately.\n\nFREE Delivery most anywhere in West Tennessee!\n\nDM me for more details or stop by and check one out in person! Homestead Landing in Dickson, TN. Across from Whitt's BBQ.\n\nP.S. Don't forget to ask about our current sale when you reach out!",
+      "condition": "New",
+      "location": "Dickson, TN",
+      "status": "active",
+      "cover": "https://raw.githubusercontent.com/homesteadlandingtn-dixy/homestead-shop-data/main/shop/1408169321509362-cover.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/homesteadlandingtn-dixy/homestead-shop-data/main/shop/1408169321509362-cover.jpg"
+      ],
+      "marketplace_url": "https://www.facebook.com/marketplace/item/1408169321509362",
+      "created_at": "2026-10-05T09:22:51.000-05:00"
+    },
     {
       "id": "1142773451453369",
       "slug": "14x36-derksen-side-cabin-rent-to-own-available-1142773451453369",
@@ -1126,8 +1143,8 @@
     },
     {
       "id": "1569120974550510",
-      "slug": "16x44-derksen-portable-cabin-rent-to-own-available-1569120974550510",
-      "title": "16x44 Derksen Portable Cabin | Rent-To-Own Available",
+      "slug": "16x44-derksen-portable-cabin-cabin-ready-for-fall-winter-1569120974550510",
+      "title": "16x44 Derksen Portable Cabin | Cabin Ready for Fall & Winter",
       "price_cents": 1902600,
       "price_display": "$19,026 + tax",
       "description": "Looking for a roomy cabin to customize and make your tiny home? This 16x44 Derksen Portable Cabin with a 4ft porch is perfect for DIY enthusiasts or anyone needing extra space for living, hobbies, or storage.\n\nCash: $19,026 + tax\n\nRent-to-Own (No Credit Check!):\n• 36 mos: $1,630.83 down $880.83/mon\n• 48 mos: $1,542.75 down $792.75/mon\n• 60 mos: $1,454.67 down $704.67/mon\n(Prices + tax. Down payments include a $750 deposit.)\n\n✨ Key Features:\n• (1) 9-lite walk-in door for easy access\n• (1) Solid walk-in door for rear entry\n• (1) 2x3 Thermopane window with screen\n• (4) 3x5 Thermopane windows with screens for natural light\n• A 4ft porch with rails for outdoor enjoyment\n• Backed by a 5-year limited warranty on materials and workmanship\n\n🚚 FREE Delivery within 50 miles of our Dickson, TN lot!\n\nAttention DIY'ers! Looking to transform this cabin into a cozy living space? Be sure to ask about customizations and upgrades, including felt paper, house wrap, 3/4\" subflooring, double-pane and thermal-pane windows, and anchors & straps.\n\nDM me for more details or swing by and check one out in person! Find us at Homestead Landing in Dickson, TN, across from Whitt's BBQ.",
@@ -1279,8 +1296,8 @@
     },
     {
       "id": "1026819323556007",
-      "slug": "16x40-side-cabin-with-dormer-rent-to-own-available-1026819323556007",
-      "title": "16x40 Side Cabin With Dormer | Rent-To-Own Available",
+      "slug": "16x40-side-cabin-with-dormer-cozy-fall-winter-cabin-1026819323556007",
+      "title": "16x40 Side Cabin With Dormer | Cozy Fall & Winter Cabin",
       "price_cents": 2434803,
       "price_display": "$24,348.03",
       "description": "This 16x40 Side Cabin is designed for comfort, style, and functionality with plenty of natural light and high-quality construction. Whether you're creating a cozy getaway, a backyard office, or a full-time tiny home, this cabin is built to last and ready for your personal touch.\n\nCash/Credit Card/Check: $24,348.03\n\nFlexible Payment Options:\n• 36 mos: $1,877.23 down, $1,127.22/mon\n• 48 mos: $1,764.51 down, $1,014.50/mon\n• 60 mos: $1,651.80 down, $901.79/mon\n(All prices include Dickson County tax and current sale discount)\n\nKey Features:\n• Bright and airy with a variety of Thermopane windows: (4) 3x5, (1) 3x3, (2) 2x3, (2) 2x5, plus a Dormer System with Transom Windows\n• 9-Lite Walk-in Door for a stylish and secure entryway\n• Upgraded ¾” flooring for added durability and comfort\n• Weather-resistant construction with felt paper on the roof and HouseWrap throughout\n• Shutters on select windows for a polished, finished look\n\nFREE Delivery most anywhere in West Tennessee!\n\nDM me for more details or stop by! Homestead Landing in Dickson, TN. Across from Whitt’s BBQ.\n\nP.S. Don’t forget to ask about our current sale when you reach out!",
@@ -1296,8 +1313,8 @@
     },
     {
       "id": "4030073100624458",
-      "slug": "16x40-derksen-side-utility-cabin-rent-to-own-available-4030073100624458",
-      "title": "16x40 Derksen Side Utility Cabin | Rent-To-Own Available",
+      "slug": "16x40-derksen-side-utility-cabin-cozy-fall-winter-retreat-4030073100624458",
+      "title": "16x40 Derksen Side Utility Cabin | Cozy Fall & Winter Retreat",
       "price_cents": 2054700,
       "price_display": "$20,547 + tax",
       "description": "Looking for a budget-friendly way to create your own cozy retreat? This 16x40 Derksen Side Cabin started as a Side Utility and has been upgraded to offer the perfect balance of style and function. Whether you're downsizing, adding a guest space, or building your dream getaway, this cabin provides an affordable, low-maintenance alternative to traditional housing—without sacrificing comfort or charm.\n\nCash: $20,547 + tax\n\nRent-to-Own (No Credit Check!):\n• 36 mos: $1,701.25 down $951.25/mon\n• 48 mos: $1,606.13 down $856.13/mon\n• 60 mos: $1,511.00 down $761.00/mon\n(Prices + tax. Down payments include a $750 deposit.)\n\nKey Features:\n• (4) 3x5 ThermoPane Windows\n• (2) 2x5 ThermoPane Windows\n• (2) 2x3 ThermoPane Windows\n• (2) Sunburst Dormer with Octagon Transom Windows\n• 9-Lite Door for a welcoming entrance\n• 5-Year Limited Warranty for peace of mind\n\n🚚 FREE Delivery within 50 miles of our Dickson, TN lot!\n\nAttention DIY’ers! Transform this cabin into your dream living space! Ask about upgrades like house wrap, 3/4\" subflooring, double-pane windows, and more.\n\nDM me for more details or swing by and check one out in person! Find us at Homestead Landing in Dickson, TN, across from Whitt’s BBQ.",
@@ -1364,8 +1381,8 @@
     },
     {
       "id": "1725091638799736",
-      "slug": "16x40-derksen-side-cabin-rent-to-own-available-1725091638799736",
-      "title": "16x40 Derksen Side Cabin | Rent-To-Own Available",
+      "slug": "16x40-derksen-side-cabin-fall-winter-getaway-1725091638799736",
+      "title": "16x40 Derksen Side Cabin | Fall & Winter Getaway",
       "price_cents": 2304700,
       "price_display": "$23,047 + tax",
       "description": "Looking for the perfect retreat to turn into a cozy getaway or full-time living space? This 16x40 Side Cabin is built with expansive windows, a spacious front porch, and stylish dormer systems, making it the ideal foundation for your dream cabin. Whether you’re planning a personal escape or a functional workspace, this one is ready to go!\n\nCash: $23,047 + tax\n\nFlexible Payment Options:\n• 36 mos: $1,816.96 down $1,066.96/mon\n• 48 mos: $1,710.29 down $960.29/mon\n• 60 mos: $1,603.59 down $853.59/mon\n(Prices + tax. Down payments include a $750 deposit.)\n\nKey Features:\n• (4) 3x5 ThermoPane Windows with shutters\n• (2) 2x5 ThermoPane Windows\n• (5) 3x3 ThermoPane Windows - (2) with Shutters\n• (2) Sunburst Dormer with Octagon Transom Windows for added elegance\n• 9-Lite Door for a welcoming entrance\n• 5-Year Limited Warranty for peace of mind\n\nFREE Delivery most anywhere in West Tennessee!\n\nAttention DIY enthusiasts! This cabin is a blank slate ready to become the space you’ve been dreaming of. Ask about customizations and upgrades to make it truly your own.\n\nDM me for more details or stop by! Homestead Landing in Dickson, TN. Across from Whitt’s BBQ.",
@@ -1398,8 +1415,8 @@
     },
     {
       "id": "1657893428613058",
-      "slug": "16x44-derksen-side-cabin-rent-to-own-available-1657893428613058",
-      "title": "16x44 Derksen Side Cabin | Rent-To-Own Available",
+      "slug": "16x44-derksen-side-cabin-ready-for-fall-weather-1657893428613058",
+      "title": "16x44 Derksen Side Cabin | Ready for Fall Weather",
       "price_cents": 2508000,
       "price_display": "$25,080 + tax",
       "description": "This 16x44 Side Cabin is the perfect balance of space, style, and function—whether you're creating a weekend retreat, a tiny home, or a backyard getaway. With plenty of natural light, a charming porch, and a stylish dormer, this cabin is ready for whatever vision you have in mind!\n\nCash: $25,080 + tax\n\nFlexible Payment Options:\n• 36 mos: $1,911.11 down $1,161.11/mon\n• 48 mos: $1,795.00 down $1,045.00/mon\n• 60 mos: $1,678.89 down $928.89/mon\n(Prices + tax. Down payments include a $750 deposit.)\n\nKey Features:\n• (1) 9-Lite Walk-in Door\n• (2) 2x5 Thermopane Windows\n• (8) 3x5 Thermopane Windows\n• (2) Sunburst Dormers with Octagon Window\n• Front Porch with Rails—a great spot to relax\n• Built to Last with a 5-Year Limited Warranty\n\nFREE Delivery most anywhere in West Tennessee!\n\nAttention DIY'ers! Looking to turn this cabin into a dream home or getaway? Ask about available customizations like Felt Paper, House Wrap, 3/4\" Sub Flooring, Double Pane & Thermal Pane Windows, and Anchors & Straps.\n\nDM me for more details or stop by! Homestead Landing in Dickson, TN. Across from Whitt's BBQ.",
