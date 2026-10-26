@@ -2605,6 +2605,27 @@
       "image_name": "12x16 Derksen Side Entry Shed",
       "image_alt": "12x16 Derksen Side Entry Shed at Homestead Landing in Dickson, Tennessee",
       "image_caption": "12x16 Derksen Side Entry Shed for sale at Homestead Landing in Dickson, Tennessee. $4,664 + tax."
+    },
+    {
+      "id": "1470844845149152",
+      "slug": "12x32-derksen-repo-cabin-no-credit-check-1470844845149152",
+      "title": "12x32 Derksen Repo Cabin",
+      "marketplace_title": "12x32 Derksen Repo Cabin | No Credit Check",
+      "price_cents": 1093900,
+      "price_display": "$10,939 + tax",
+      "description": "This 12x32 Derksen Repo Cabin has 384 square feet of possibilities and the process is already started! Create your weekend retreat, home office, or future cabin project with this portable cabin.\n\nCash price: $10,939 + tax\n\nRent-to-own available with NO credit check:\n• 36 months: $506/month + tax\n• 48 months: $455/month + tax\n• 60 months: $405/month + tax\n\nMidnight Blue with two-tone wainscoting, Country Charcoal trim, and a charcoal metal roof. Includes a 36\" 9-lite door, 3x5 Thermopane window, shutters, and porch rails.\n\nCome see it at Homestead Landing in Dickson, TN, across from Whitt’s BBQ.",
+      "condition": "Used (like new)",
+      "location": "Dickson, TN",
+      "status": "active",
+      "cover": "https://raw.githubusercontent.com/homesteadlandingtn-dixy/homestead-shop-data/main/shop/12x32-derksen-repo-cabin-1470844845149152-cover.jpg",
+      "photos": [
+        "https://raw.githubusercontent.com/homesteadlandingtn-dixy/homestead-shop-data/main/shop/12x32-derksen-repo-cabin-1470844845149152-cover.jpg"
+      ],
+      "image_name": "12x32 Derksen Repo Cabin",
+      "image_alt": "12x32 Derksen Repo Cabin at Homestead Landing in Dickson, Tennessee",
+      "image_caption": "12x32 Derksen Repo Cabin for sale at Homestead Landing in Dickson, Tennessee. $10,939 + tax.",
+      "marketplace_url": "https://www.facebook.com/marketplace/item/1470844845149152",
+      "created_at": "2026-10-22T10:05:38.000-05:00"
     }
   ]
 }
